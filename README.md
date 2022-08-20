@@ -1,2 +1,2 @@
-# PieLib. Wrote in 2020.
-A C++ lib used in KCOMSpace, draw pie chart like the pie in Office software. Supports mouse pointer tracking and other visual effect, just like that in Office.
+# ShapesLib. Wrote in 2020.
+A C++ lib used in KCOMSpace, draw several kind of shapes like those in Office software. Supports lots of visual effect, just like those in Office.
